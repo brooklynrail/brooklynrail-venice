@@ -1,0 +1,7 @@
+{% assign sorted_sections = site.sections | sort:"order" %}
+{% for section in sorted_sections %}
+  <h2 id="{{ section.id | slugify }}">{{ section.title | escape }}</h2>
+  <div>
+    {{ section.content }}
+  </div>
+{% endfor %}
