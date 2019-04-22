@@ -6,4 +6,13 @@ description:
 order: 2
 ---
 
-Body Hours and Location ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="bg-base-lightest padding-3 font-sans-md width-tablet-lg radius-sm">
+  <p>The 58th International Art Exhibition of La Biennale di Venezia runs from 11 May–24 November 2019, with a preview from 8 May–10 May</p>
+
+  <p><strong>Location:</strong> Chiesa delle Penitenti Fondamenta Cannaregio, 910, 30121 Venezia VE, Italy (Map)</p>
+
+  <p><strong>Admission:</strong> — The exhibition is free and open to the public</p>
+
+  <p><strong>Hours:</strong> 10:00am – 6:00pm, Tuesdays – Sundays</p>
+
+</div>

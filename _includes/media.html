@@ -1,5 +1,5 @@
 {% if include.caption %}
-  <figure class="margin-y-3 margin-x-0 {% if include.class %} {{ include.class }} {% endif %}">
+  <figure class="margin-y-3 margin-x-0 width-auto {% if include.class %} {{ include.class }} {% endif %}">
       <img src="assets/media/{{ include.filename }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
       <figcaption class="font-sans-xs">{{ include.caption }}</figcaption>
   </figure>
