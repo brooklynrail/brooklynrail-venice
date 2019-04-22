@@ -7,9 +7,11 @@ title: 'The Rail at the 2019 Venice Biennale'
 deck: "Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy: Mare Nostrum"
 ---
 
+{% include media.html filename="rail-venice.png" size="md" alt="A red neon sign that says, Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, by artist Lauren Bon" caption="Lauren Bon and The Metabolic Studio, Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, 2006. Neon. Edition 1/12. Photo by Joshua White." %}
+
 <div class="lead font-sans-xl measure-4 text-light">Inspired by Lauren Bon’s text-based neon work on view in the courtyard—from which it borrows its title—this exhibition, together with its accompanying public programming 1001 Stories for Survival, addresses the environmental crisis in the age of climate change, with a focus on the Mediterranean Sea.</div>
 
-{% include media.html filename="rail-venice.png" class="width-tablet-lg" alt="A red neon sign that says, Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, by artist Lauren Bon" caption="Lauren Bon and The Metabolic Studio, Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, 2006. Neon. Edition 1/12. Photo by Joshua White." %}
+
 
 The show brings together 73 artists of different generations and cultural backgrounds whose selected works, in a wide range of media, invite critical awareness on the fragility of nature and human life while poetically invoking the regeneration of living systems. On view here are works by Wolfgang Laib, Lauren Bon, Shoja Azari & Shahram Karimi, Julian Charrière, and Shirin Neshat that meditate on themes such as ephemerality, transformation, and interconnectedness.
 

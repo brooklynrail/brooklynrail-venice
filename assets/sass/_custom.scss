@@ -1,4 +1,27 @@
 
+.media{
+  @include u-margin-y(2);
+  figcaption{
+    @include u-text('base');
+    @include u-padding-x('05');
+  }
+}
+.width-xl{
+  @include u-width('full');
+}
+.width-lg{
+  @include u-width('tablet-lg');
+}
+.width-md{
+  @include at-media('tablet-lg') {
+    @include u-margin-left(2);
+    @include u-width('mobile-lg');
+    @include u-float('right');
+  }
+}
+.width-sm{
+  @include u-width('mobile-lg');
+}
 
 code{
   @include u-padding-x('05');
