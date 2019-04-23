@@ -1,7 +1,7 @@
 ---
 layout: section
 title: About the Brooklyn Rail
-nav-title: About
+nav-title: About the Rail
 permalink: /about/
 description:
 order: 7
