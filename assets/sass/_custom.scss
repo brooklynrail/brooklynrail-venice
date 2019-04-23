@@ -1,3 +1,32 @@
+*[id]:before {
+  @include u-display('block');
+  content: " ";
+  margin-top: -95px; // Set the Appropriate Height
+  height: 95px; // Set the Appropriate Height
+  visibility: hidden;
+}
+
+#backtop {
+  @include u-display('none');
+  @include u-position('fixed');
+  @include u-bottom(3);
+  @include u-right(3);
+  z-index: 99; /* Make sure it does not overlap */
+  @include u-border(0);
+  outline: none; /* Remove outline */
+  @include u-bg('red-50v');
+  @include u-color('white');
+  cursor: pointer; /* Add a mouse pointer on hover */
+  @include u-padding('105');
+  @include u-radius('sm');
+  @include u-text('normal');
+  @include u-font('sans', 'md');
+  &:hover{
+    span{
+      @include u-border-bottom('2px', 'white', 'solid');
+    }
+  }
+}
 
 .media{
   @include u-margin-y(2);
