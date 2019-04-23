@@ -13,6 +13,7 @@ gem 'json'
 gem 'hash-joiner'
 gem 'jemoji'
 gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
