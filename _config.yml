@@ -31,6 +31,7 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jemoji
+  - jekyll-seo-tag
 
 sass:
   sass_dir: _sass

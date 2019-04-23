@@ -12,6 +12,7 @@ gem "jekyll", ">= 3.6.3"
 gem 'json'
 gem 'hash-joiner'
 gem 'jemoji'
+gem 'jekyll-seo-tag'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
