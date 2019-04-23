@@ -4,7 +4,7 @@ title: Hours and Location
 nav-title: Hours and Location
 permalink: /hours-location/
 description:
-order: 2
+order: 4
 ---
 
 <div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
@@ -12,7 +12,7 @@ order: 2
 
   <p><strong>Location:</strong> Chiesa delle Penitenti Fondamenta Cannaregio, 910, 30121 Venezia VE, Italy (Map)</p>
 
-  <p><strong>Admission:</strong> — The exhibition is free and open to the public</p>
+  <p><strong>Admission:</strong> The exhibition is free and open to the public</p>
 
   <p><strong>Hours:</strong> 10:00am – 6:00pm, Tuesdays – Sundays</p>
 

@@ -56,6 +56,11 @@
   @include u-width('mobile-lg');
 }
 
+.lead a{
+  @include u-text('no-underline');
+  @include u-border-bottom('2px','dotted','secondary-vivid');
+}
+
 code{
   @include u-padding-x('05');
   @include u-padding-y('2px');

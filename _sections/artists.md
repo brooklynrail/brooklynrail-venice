@@ -4,7 +4,7 @@ title: Artists
 nav-title: Artists
 permalink: /artists/
 description:
-order: 5
+order: 6
 ---
 
 <div class="grid-container padding-0">
