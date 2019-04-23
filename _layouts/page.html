@@ -6,7 +6,7 @@ layout: default
   <div class="grid-row grid-gap-4">
     <div class="grid-col-12">
 
-      <header class="margin-bottom-3">
+      <header class="margin-bottom-3 display-none">
         <h1 class="margin-0 text-bold font-sans-xl desktop-lg:font-sans-3xl">{{ page.title | escape }}</h1>
         {% if page.deck %}
         <div class="margin-y-1 line-height-sans-2 text-light font-sans-xl desktop-lg:font-sans-3xl">{{ page.deck | escape }}</div>
@@ -16,8 +16,6 @@ layout: default
         <a href="{{ site.baseurl }}/new{{ page.url | slice: 0, size }}" class="usa-button margin-top-3">New</a>
         {% endif %}
       </header>
-
-      {% include navigation.html %}
 
     </div>
   </div>
@@ -30,7 +28,8 @@ layout: default
 
         {{ content }}
 
-
+        {% include navigation.html %}
+        
         {% include section.html %}
 
 
