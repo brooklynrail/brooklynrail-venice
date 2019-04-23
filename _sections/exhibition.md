@@ -11,7 +11,7 @@ order: 3
 
 <div class="margin-bottom-3 lead font-sans-lg tablet:font-sans-xl measure-4 text-light">Inspired by Lauren Bon’s text-based neon work on view in the courtyard—from which it borrows its title—this exhibition, together with its accompanying public programming <em>1001 Stories for Survival</em>, addresses the environmental crisis in the age of climate change, with a focus on the Mediterranean Sea.</div>
 
-<div class="margin-y-1 bg-base-lightest padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
+<div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
 <p><em>Exhibition hours/ Orari della mostra:</em> <br/>
 8.5.2019–24.11.2019, from Tuesdays to Sundays /<br/>
 da martedì a domenica, 10:00–18:00<br/>

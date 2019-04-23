@@ -8,8 +8,8 @@ order: 5
 ---
 
 <div class="grid-container padding-0">
-  <div class="grid-row">
-    <div class="grid-col-4">
+  <div class="grid-row grid-gap-3">
+    <div class="grid-col-6 tablet:grid-col-4">
       <ul class="add-list-reset">
         <li>Peter Acheson</li>
         <li>Yasi Alipour</li>
@@ -48,7 +48,7 @@ order: 5
         <li>Maya Lin</li>
       </ul>
     </div>
-    <div class="grid-col-4">
+    <div class="grid-col-6 tablet:grid-col-4">
       <ul class="add-list-reset">
         <li>Chris Martin</li>
         <li>Hans Meebush</li>
