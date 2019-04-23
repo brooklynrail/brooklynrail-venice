@@ -61,6 +61,21 @@
   @include u-border-bottom('2px','dotted','secondary-vivid');
 }
 
+.rsvp{
+  @include u-margin-x('05');
+  @include u-padding-x(1);
+  @include u-padding-y('05');
+  @include u-radius('sm');
+  @include u-bg('red-50v');
+  @include u-text('white');
+  @include u-text('medium');
+  @include u-text('no-underline');
+  @include u-font('sans', '3xs');
+  &:hover{
+    @include u-text('white');
+    @include u-text('underline');
+  }
+}
 code{
   @include u-padding-x('05');
   @include u-padding-y('2px');
