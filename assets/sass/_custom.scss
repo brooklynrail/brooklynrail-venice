@@ -7,11 +7,6 @@
 }
 
 #backtop {
-  @include u-display('none');
-  @include u-position('fixed');
-  @include u-bottom(3);
-  @include u-right(3);
-  z-index: 99; /* Make sure it does not overlap */
   @include u-border('2px', 'red-50v', 'solid');
   outline: none; /* Remove outline */
   @include u-bg('white');

@@ -1,10 +1,14 @@
 jQuery(document).ready(function($) {
 
   $(window).scroll(function(){
-    if ($(this).scrollTop() > 100) {
-      $('#backtop').show();
+    if ($(this).scrollTop() > 300) {
+      $('.bar').removeClass('flex-justify-end');
+      $('.bar').addClass('flex-justify');
+      $('.bar #backtop').removeClass('display-none');
     } else {
-      $('#backtop').hide();
+      $('.bar').removeClass('flex-justify');
+      $('.bar').addClass('flex-justify-end');
+      $('.bar #backtop').addClass('display-none');
     }
   });
 
