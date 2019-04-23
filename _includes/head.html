@@ -3,22 +3,6 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  {% if page.title %}
-    <title>{{ page.title }}</title>
-    <meta property="og:title" content="{{ page.title | xml_escape }}" />
-  {% else %}
-    <title>{{ site.title }}</title>
-    <meta property="og:title" content="{{ site.title | xml_escape }}" />
-  {% endif %}
-
-  {% if page.description %}
-    <meta name="description" content="{{ page.description | xml_escape }}">
-    <meta property="og:description" content="{{ page.description | xml_escape }}" />
-  {% else %}
-    <meta name="description" content="{{ site.description | xml_escape }}">
-    <meta property="og:description" content="{{ site.description | xml_escape }}" />
-  {% endif %}
-
     {% seo %}
 
   <!-- CSS -->
