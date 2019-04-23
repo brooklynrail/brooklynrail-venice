@@ -1,7 +1,7 @@
 ---
 layout: section
-title: Events Schedule
-nav-title: Events
+title: Events schedule
+nav-title: Events schedule
 permalink: /events/
 description:
 order: 1
