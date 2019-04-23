@@ -14,6 +14,8 @@
   @include u-width('tablet-lg');
 }
 .width-md{
+  @include u-margin-left(0);
+  @include u-width('full');
   @include at-media('tablet-lg') {
     @include u-margin-left(2);
     @include u-width('tablet');
