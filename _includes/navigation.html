@@ -2,9 +2,9 @@
   <ul class="add-list-reset">
     {% assign sorted_sections = site.sections | sort:"order" %}
     {% for section in sorted_sections %}
-    <li class="padding-y-05 font-sans-lg text-bold line-height-sans-4">
+    <li class="padding-y-05 font-sans-md tablet:font-sans-lg text-bold line-height-sans-4">
       <a class="padding-y-05 text-no-underline" href="#{{ section.url | slugify }}" title="view {{ section.nav-title }}">
-        <span class="hover:border-bottom-2px">{{ section.nav-title }}</span> <i class="fas fa-arrow-right"></i>
+        <span class="hover:border-bottom-2px">{{ section.nav-title }}</span> <i class="fas fa-angle-right"></i>
       </a>
     </li>
     {% endfor %}

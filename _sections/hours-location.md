@@ -7,7 +7,7 @@ description:
 order: 2
 ---
 
-<div class="bg-base-lightest padding-3 font-sans-md width-tablet-lg radius-sm">
+<div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
   <p>The 58th International Art Exhibition of La Biennale di Venezia runs from 11 May–24 November 2019, with a preview from 8 May–10 May</p>
 
   <p><strong>Location:</strong> Chiesa delle Penitenti Fondamenta Cannaregio, 910, 30121 Venezia VE, Italy (Map)</p>
