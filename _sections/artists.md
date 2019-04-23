@@ -1,9 +1,10 @@
 ---
 layout: section
 title: Artists
+nav-title: Artists
 permalink: /artists/
 description:
-order: 6
+order: 5
 ---
 
 <div class="grid-container padding-0">

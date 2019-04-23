@@ -1,6 +1,7 @@
 ---
 layout: section
-title: The exhibition at the Chiesa di Santa Maria
+title: The exhibition
+nav-title: The exhibition at the Chiesa di Santa Maria
 permalink: /exhibition/
 description:
 order: 3
