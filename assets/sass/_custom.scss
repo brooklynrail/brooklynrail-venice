@@ -1,10 +1,10 @@
-*[id]:before {
-  @include u-display('block');
-  content: " ";
-  margin-top: -95px; // Set the Appropriate Height
-  height: 95px; // Set the Appropriate Height
-  visibility: hidden;
-}
+// *[id]:before {
+//   @include u-display('block');
+//   content: " ";
+//   margin-top: -95px; // Set the Appropriate Height
+//   height: 95px; // Set the Appropriate Height
+//   visibility: hidden;
+// }
 
 #backtop {
   @include u-border('2px', 'red-50v', 'solid');
