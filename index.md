@@ -5,6 +5,11 @@
 layout: page
 title: 'The Rail at the 2019 Venice Biennale'
 deck: "Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy: Mare Nostrum"
+description: "Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy: Mare Nostrum"
+image: '/assets/media/rail-venice.png'
+twitter:
+  username: brooklnrail
+  card: summary_large_image
 ---
 
 <div class="lead margin-bottom-105 tablet:margin-bottom-3 font-sans-lg tablet:font-sans-xl measure-2 text-light">
