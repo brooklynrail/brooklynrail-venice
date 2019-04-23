@@ -1,22 +1,16 @@
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-    document.getElementById("backtop").classList.add("display-block");
-  } else {
-    document.getElementById("backtop").classList.remove("display-none");
-  }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-}
-
 jQuery(document).ready(function($) {
 
+  $(window).scroll(function(){
+    if ($(this).scrollTop() > 100) {
+      $('#backtop').show();
+    } else {
+      $('#backtop').hide();
+    }
+  });
 
+  $('#backtop').click(function(){
+    $("html, body").animate({ scrollTop: 0 }, 600);
+    return false;
+  });
 
 });

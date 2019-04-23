@@ -12,18 +12,19 @@
   @include u-bottom(3);
   @include u-right(3);
   z-index: 99; /* Make sure it does not overlap */
-  @include u-border(0);
+  @include u-border('2px', 'red-50v', 'solid');
   outline: none; /* Remove outline */
-  @include u-bg('red-50v');
-  @include u-color('white');
+  @include u-bg('white');
+  @include u-color('red-50v');
   cursor: pointer; /* Add a mouse pointer on hover */
-  @include u-padding('105');
+  @include u-padding-y(1);
+  @include u-padding-x('105');
   @include u-radius('sm');
   @include u-text('normal');
-  @include u-font('sans', 'md');
+  @include u-font('sans', 'sm');
   &:hover{
     span{
-      @include u-border-bottom('2px', 'white', 'solid');
+      @include u-border-bottom('2px', 'red-50v', 'solid');
     }
   }
 }
@@ -45,7 +46,7 @@
 .width-md{
   @include u-margin-left(0);
   @include u-width('full');
-  @include at-media('tablet-lg') {
+  @include at-media('desktop') {
     @include u-margin-left(2);
     @include u-width('tablet');
     @include u-float('right');
