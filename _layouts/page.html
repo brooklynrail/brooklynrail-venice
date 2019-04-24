@@ -21,15 +21,16 @@ layout: default
   </div>
 </div>
 
-<section class="article-list" data-api="{{ page.api }}">
+<section>
   <div class="grid-container">
     <div class="grid-row grid-gap-4">
       <div class="grid-col-12">
-
-        {{ content }}
+        <div data-edit-this="{{ page.path }}">
+          {{ content }}
+        </div>
 
         {% include navigation.html %}
-        
+
         {% include section.html %}
 
 

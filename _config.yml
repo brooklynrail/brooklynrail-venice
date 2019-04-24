@@ -36,3 +36,6 @@ plugins:
 
 sass:
   sass_dir: _sass
+
+github_org: "brooklynrail"
+github_repo: "brooklynrail-venice"

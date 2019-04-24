@@ -71,6 +71,18 @@
     @include u-text('underline');
   }
 }
+
+.edit-this {
+  @include u-display('none');
+  a{
+    @include u-padding-x(1);
+    @include u-padding-y('05');
+    @include u-radius('md');
+    @include u-text('no-underline');
+    @include u-border('1px','solid','secondary-vivid');
+    @include u-font('sans', 'xs');
+  }
+}
 code{
   @include u-padding-x('05');
   @include u-padding-y('2px');
