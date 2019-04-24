@@ -1,6 +1,6 @@
 ---
 layout: section
-title: The exhibition
+title: The Exhibition
 nav-title: The exhibition at the Chiesa di Santa Maria
 permalink: /exhibition/
 description:

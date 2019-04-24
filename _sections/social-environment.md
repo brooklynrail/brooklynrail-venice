@@ -1,6 +1,6 @@
 ---
 layout: section
-title: The Social Environment
+title: The social environment
 nav-title: The social environment at Sala de Colonne
 permalink: /social-environment/
 description:
