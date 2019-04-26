@@ -4,7 +4,7 @@ jQuery(document).ready(function($) {
   var all = document.querySelectorAll("[data-edit-this]");
   $(all).each(function( i, e ) {
     var path = $(e).attr('data-edit-this');
-    var edit_btn = '<p class="edit-this"><a href="' + giturl + '' + path + ' " title="edit this"><span>edit</span></a><p>';
+    var edit_btn = '<p class="edit-this"><a target="_blank" href="' + giturl + '' + path + ' " title="edit this"><span>edit</span></a><p>';
     $(e).append(edit_btn);
   });
 
