@@ -9,7 +9,7 @@ order: 1
 
 <div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
   <h3 class="font-sans-sm tablet:font-sans-lg text-light">OFFICIAL OPENING: MAY 8, 2019: 17:00 – 20:00</h3>
-  <p><strong>May 8 at 17:00-18:00</strong><br/> Poetry Reading with Nanni Balestrini, Luigi Ballerini, John Giorno, Vincent Katz, and Mónica de la Torre</p>
+  <p><strong>May 8 at 17:00-18:00</strong><br/> Poetry Reading with Milli Graffi, Luigi Ballerini, John Giorno, Vincent Katz, and Mónica de la Torre</p>
 
   <p><strong>May 8 at 18:00-20:00</strong><br/> Cooking Performance with Rirkrit Tiravanija and Tomas Vu<br/><em><strong>Capacity is limited, RSVP is essential</strong></em> <a href="mailto:ylee@fitzandco.art?subject=RSVP%20Cooking%20Performance%20with%20Rirkrit%20Tiravanija" class="rsvp">RSVP</a></p>
 
