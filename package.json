@@ -19,7 +19,9 @@
     "url": "https://github.com/GSA/digitalgov-workflow/issues"
   },
   "homepage": "https://github.com/GSA/digitalgov-workflow#readme",
-  "dependencies": {},
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  },
   "devDependencies": {
     "autoprefixer": "^9.6.1",
     "css-mqpacker": "^7.0.0",
