@@ -59,6 +59,21 @@ TASKS
 ----------------------------------------
 */
 
+gulp.task('copy-fontawesome', () => {
+  return gulp.src(`./node_modules/@fortawesome/fontawesome-free/css/all.min.css`)
+  .pipe(gulp.dest(`${CSS_DEST}`));
+});
+
+gulp.task('copy-slick-js', () => {
+  return gulp.src(`./node_modules/slick-carousel/slick/**/**.js`)
+  .pipe(gulp.dest(`${JS_DEST}`));
+});
+
+gulp.task('copy-slick-css', () => {
+  return gulp.src(`./node_modules/slick-carousel/slick/**/**.css`)
+  .pipe(gulp.dest(`${CSS_DEST}`));
+});
+
 gulp.task('copy-uswds-setup', () => {
   return gulp.src(`${uswds}/scss/theme/**/**`)
   .pipe(gulp.dest(`${PROJECT_SASS_SRC}`));
@@ -126,4 +141,4 @@ gulp.task('watch-sass', function () {
 
 gulp.task('watch', gulp.series('build-sass', 'watch-sass'));
 
-gulp.task('default', gulp.series('watch'));
+gulp.task('default', gulp.series('copy-slick-js', 'copy-slick-css', 'copy-fontawesome', 'watch'));
