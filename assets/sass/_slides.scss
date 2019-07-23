@@ -1,0 +1,25 @@
+.venice-photos{
+  figure{
+    @include u-margin-x('05');
+    @include at-media('tablet') {
+      @include u-margin-x(2);
+    }
+    img{
+      @include u-margin-bottom('05');
+      @include u-bg('gray-cool-5');
+      @include u-padding(0);
+      @include u-margin-x(0);
+      @include at-media('tablet') {
+        @include u-margin-x(2);
+        @include u-padding('205');
+      }
+    }
+  }
+  .slick-arrow:before{
+    @include u-text('black');
+    font-size: 26px;
+  }
+  .slick-dots li button:before{
+    font-size: 11px;
+  }
+}

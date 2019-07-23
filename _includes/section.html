@@ -6,7 +6,14 @@
       <div class="grid-col-12">
         <h2 id="{{ section.id | slugify }}">{{ section.title | escape }}</h2>
         <div>
-          {{ section.content }}
+          {% if section.id == '/photos' %}
+            <div class="venice-photos">
+              {{ section.content }}
+            </div>
+          {% else if %}
+            {{ section.content }}
+          {% endif %}
+
         </div>
       </div>
     </div>
