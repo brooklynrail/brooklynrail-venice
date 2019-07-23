@@ -4,7 +4,7 @@ title: The Exhibition
 nav-title: The exhibition at the Chiesa di Santa Maria
 permalink: /exhibition/
 description:
-order: 3
+order: 1
 ---
 
 {% include media.html filename="rail-venice-courtyard.png" size="md" alt="A red neon sign that says, Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy, by artist Lauren Bon" caption="Top: Lauren Bon and the Metabolic Studio, <em>Artists need to Create on the Same Scale that Society Has the Capacity to Destroy</em>, 2019 Courtesy the artist. Bottom: Maya Lin, <em>Water Water Everywhere, Not a Drop to Drink</em>, 2019. Courtesy the artist and Pace Gallery, New York. Photo Samuele Cherubini. (c) VeniceDocumentationProject." %}
