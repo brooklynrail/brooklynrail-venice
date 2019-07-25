@@ -9,6 +9,8 @@ $(document).ready(function(){
     centerPadding: '80px',
     focusOnSelect: true,
     swipeToSlide: true,
+    respondTo: 'slider',
+    variableWidth: true,
     responsive: [
       {
         breakpoint: 1024,
