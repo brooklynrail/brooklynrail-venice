@@ -4,7 +4,7 @@ $(document).ready(function(){
   $(".venice-photos").not('.slick-initialized').slick({
     lazyLoad: 'ondemand',
     slidesToShow: 1,
-    dots:true,
+    dots:false,
     infinite: true,
     speed: 300,
     centerMode: true,
@@ -34,5 +34,9 @@ $(document).ready(function(){
         }
       }
     ]
+  });
+  $( ".slick-slide" ).each(function( index ) {
+    $( this ).css('margin-top',
+    ($('.slider').height()-$(this).height())/2+'px' );
   });
 });
