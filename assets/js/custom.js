@@ -1,3 +1,5 @@
+// We are using Slick.js for the images
+// https://kenwheeler.github.io/slick/
 $(document).ready(function(){
   $(".venice-photos").not('.slick-initialized').slick({
     lazyLoad: 'ondemand',
