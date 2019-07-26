@@ -4,7 +4,7 @@ title: Hours and location
 nav-title: Hours and location
 permalink: /hours-location/
 description:
-order: 4
+order: 3
 ---
 
 <div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">

@@ -1,10 +1,10 @@
 ---
 layout: section
 title: Events schedule
-nav-title: Events schedule
+nav-title: Events
 permalink: /events/
 description:
-order: 3
+order: 6
 ---
 
 <div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
