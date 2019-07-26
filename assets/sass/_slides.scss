@@ -1,0 +1,22 @@
+.venice-photos{
+  figure{
+    @include u-margin-x('05');
+    @include at-media('tablet') {
+      @include u-margin-x(2);
+      @include u-maxw('tablet-lg');
+    }
+    img{
+      @include u-margin-bottom('05');
+      @include u-padding(0);
+      @include u-margin-x(0);
+      opacity: 0.4;
+      @include at-media('tablet') {
+      }
+    }
+  }
+  .slick-current{
+    img{
+      opacity: 1;
+    }
+  }
+}

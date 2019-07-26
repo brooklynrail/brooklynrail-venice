@@ -1,6 +1,7 @@
 {% if include.caption %}
   <figure class="media {% if include.size %}width-{{ include.size }} {% endif %}">
       <img src="assets/media/{{ include.filename }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
+      {% if include.credit != "" %}<span class="credit font-sans-3xs">{{ include.credit }}</span>{% endif %}
       <figcaption class="font-sans-3xs tablet:font-sans-2xs">{{ include.caption }}</figcaption>
   </figure>
 {% else %}

@@ -4,7 +4,7 @@ title: Curators
 nav-title: Curators
 permalink: /curators/
 description:
-order: 5
+order: 4
 ---
 
 **Phong Bui** is an artist, writer, independent curator, publisher, and artistic director of the monthly journal the _Brooklyn Rail_ and the publishing press Rail Editions. He is a board member of the Third Rail of Minneapolis and St. Paul, the Miami Rail, the Louis Comfort Tiffany Foundation, the Sharpe-Walentas Studio Program, the International Association of Art Critics United States Section (AICA USA), Anthology Film Archives, Studio in a School, Second Shift Studio Space of Saint Paul, among others. In 2013 he founded Rail Curatorial Projects, which aims to curate group exhibits that respond to location, cultural moment, and economic conditions. In 2017, both the _River Rail_ (a free publication that focuses on the environment and climate change) and Occupy Rail (an ongoing endeavor to encourage and support motivated individuals to create their own _Rail_ publication in their local communities) were founded to facilitate and provide critical dialogues of how the arts, politics, and culture are integral parts of the common wealth of the greater public. He has recently co-founded the Graphyne Foundation, which aims to curate ongoing exhibitions and public programing in collaboration with Mana Contemporary in Jersey City, Chicago, and Miami, among other museums of contemporary art in the U.S. and abroad. His 2019 projects include: _The River Rail: On Puerto Rico_; and exhibitions _Jonas Mekas: A Retrospective_; _Occupy Colby Museum: Artists Need to Create on the Same Scale that Society Has the Capacity to Destroy (Year II)_, among others.
