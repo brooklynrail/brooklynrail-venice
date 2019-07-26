@@ -18,6 +18,9 @@ $(document).ready(function(){
       breakpoint: 480, //at 480px wide, only one slide will show
       settings: {
         variableWidth: false,
+        centerPadding: '0',
+        autoplay: true,
+        autoplaySpeed: 1500,
       }
     }
     ]

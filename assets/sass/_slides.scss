@@ -1,6 +1,7 @@
 .venice-photos{
   figure{
     @include u-margin-x('05');
+    @include u-maxw('full');
     @include at-media('tablet') {
       @include u-margin-x(2);
       @include u-maxw('tablet-lg');
