@@ -27,6 +27,12 @@
 .media{
   @include u-margin-y(2);
   @include u-margin-right(0);
+  .credit{
+    @include u-display('block');
+    @include u-text('base');
+    @include u-text('right');
+    @include u-padding-x('05');
+  }
   figcaption{
     @include u-text('base');
     @include u-padding-x('05');

@@ -14,18 +14,9 @@
       }
     }
   }
-
   .slick-current{
     img{
       opacity: 1;
     }
-  }
-
-  .slick-arrow:before{
-    @include u-text('black');
-    font-size: 26px;
-  }
-  .slick-dots li button:before{
-    font-size: 11px;
   }
 }
