@@ -1,42 +1,33 @@
 // We are using Slick.js for the images
 // https://kenwheeler.github.io/slick/
 $(document).ready(function(){
-  $(".venice-photos").not('.slick-initialized').slick({
+
+  var slick_settings = {
     lazyLoad: 'ondemand',
-    slidesToShow: 1,
-    dots:false,
     infinite: true,
+    arrows: false,
     speed: 300,
+    slidesToShow: 1,
+    slidesToScroll: 1,
     centerMode: true,
-    centerPadding: '80px',
-    focusOnSelect: true,
-    swipeToSlide: true,
-    respondTo: 'slider',
+    adaptiveHeight: true,
     variableWidth: true,
+    focusOnSelect:true,
     responsive: [
-      {
-        breakpoint: 1024,
-        settings: {
-          centerPadding: '80px',
-        }
-      },
-      {
-        breakpoint: 600,
-        settings: {
-          centerPadding: '50px',
-        }
-      },
-      {
-        breakpoint: 480,
-        settings: {
-          arrows: false,
-          centerMode: false,
-        }
+    {
+      breakpoint: 480, //at 480px wide, only one slide will show
+      settings: {
+        variableWidth: false,
       }
+    }
     ]
+  };
+
+  $('.venice-photos').slick(slick_settings);
+
+  $(window).on('resize orientationchange', function() {
+    $('.venice-photos').slick('unslick');
+    $('.venice-photos').slick(slick_settings);
   });
-  $( ".slick-slide" ).each(function( index ) {
-    $( this ).css('margin-top',
-    ($('.slider').height()-$(this).height())/2+'px' );
-  });
+
 });
