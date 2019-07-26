@@ -20,7 +20,7 @@ $(document).ready(function(){
         variableWidth: false,
         centerPadding: '0',
         autoplay: true,
-        autoplaySpeed: 1500,
+        autoplaySpeed: 2000,
       }
     }
     ]
