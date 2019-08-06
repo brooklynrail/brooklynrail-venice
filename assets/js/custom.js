@@ -29,8 +29,7 @@ $(document).ready(function(){
   $('.venice-photos').slick(slick_settings);
 
   $(window).on('resize orientationchange', function() {
-    $('.venice-photos').slick('unslick');
-    $('.venice-photos').slick(slick_settings);
+    $('.venice-photos').slick('resize');
   });
 
 });
