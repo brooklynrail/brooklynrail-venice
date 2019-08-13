@@ -24,6 +24,7 @@ order: 5
         <li>Dana Buhl</li>
         <li>Phong Bui</li>
         <li>Bunny Burson</li>
+        <li>Paolo Canevari</li>
         <li>Julian Charrière</li>
         <li>Chuck Close</li>
         <li>Christian de Boschnek</li>
