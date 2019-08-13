@@ -13,7 +13,7 @@ order: 1
 
 <div class="margin-bottom-3 lead font-sans-lg tablet:font-sans-xl measure-4 text-light">Inspired by Lauren Bon’s text-based neon work on view in the courtyard—from which it borrows its title—this exhibition, together with its accompanying public programming <em>1001 Stories for Survival</em>, addresses the environmental crisis in the age of climate change, with a focus on the Mediterranean Sea.</div>
 
-The show brings together 73 artists of different generations and cultural backgrounds whose selected works, in a wide range of media, invite critical awareness on the fragility of nature and human life while poetically invoking the regeneration of living systems. On view are works by Shoja Azari & Shahram Karimi, Lauren Bon, Julian Charrière, Newton Harrison, Wolfgang Laib, Maya Lin, Shirin Neshat, Amy Sillman, Kiki Smith, Rirkrit Tiravanija, Tomas Vu, Jack Witten, and Lisa Yuskavage, among many others that meditate on themes such as ephemerality, transformation, and interconnectedness.
+The show brings together over 70 artists of different generations and cultural backgrounds whose selected works, in a wide range of media, invite critical awareness on the fragility of nature and human life while poetically invoking the regeneration of living systems. On view are works by Shoja Azari & Shahram Karimi, Lauren Bon, Julian Charrière, Newton Harrison, Wolfgang Laib, Maya Lin, Shirin Neshat, Amy Sillman, Kiki Smith, Rirkrit Tiravanija, Tomas Vu, Jack Witten, and Lisa Yuskavage, among many others that meditate on themes such as ephemerality, transformation, and interconnectedness.
 
 <div class="venice-photos">
 
