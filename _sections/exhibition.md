@@ -17,7 +17,7 @@ The show brings together over 70 artists of different generations and cultural b
 
 <div class="venice-photos">
 
-{% include slide.html filename="photos/brooklyn-rail-venice-1.jpg" alt="" caption="" credit="(c)Venice Documentation Project" %}
+{% include slide.html filename="photos/brooklyn-rail-venice-1.jpg" alt="" caption="" credit="&copy; Venice Documentation Project" %}
 
 {% include slide.html filename="photos/brooklyn-rail-venice-2.jpg" alt="" caption="" credit="(c)Venice Documentation Project" %}
 
