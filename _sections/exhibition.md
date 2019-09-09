@@ -17,7 +17,7 @@ The show brings together over 70 artists of different generations and cultural b
 
 <div class="venice-photos">
 
-{% include slide.html filename="photos/brooklyn-rail-venice-1.jpg" alt="" caption="" credit="&copy; Venice Documentation Project" %}
+{% include slide.html filename="photos/brooklyn-rail-venice-1.jpg" alt="" caption="Wolfgang Laib, <em>Passageway</em>, 2013. Brass ships, rice, 6 x 160 1/2 x 137 13/16 inches" credit="&copy; Wolfgang Laib. Courtesy Sperone Westwater, New York. Photo: &copy; Venice Documentation Project." %}
 
 {% include slide.html filename="photos/brooklyn-rail-venice-2.jpg" alt="" caption="" credit="(c)Venice Documentation Project" %}
 
