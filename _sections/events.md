@@ -23,7 +23,7 @@ Researchers Dr. Silvia Santato and Dr. Federico Dallo present a research-based p
 <strong>October 12, 17:30–20:00</strong><br><strong>Films by Jonas Mekas</strong><br>Curators Francesco Urbano Ragazzi present excerpts from Jonas Mekas’s <em>365 Day Project</em>, in which Mekas, the “godfather of American avant-garde cinema,” made a film each consecutive day for one year, followed by a screening of <em>Walden </em>(1968), a film-diary connecting themes of nature to everyday urban life. 
 </p>
 
-<p><strong>October 13, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br>The <em>Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.
+<p><strong>October 13, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.
 </p>
 
 <p><strong>November 12, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti. 
