@@ -10,9 +10,46 @@ order: 6
 <div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
   <h3 class="font-sans-sm tablet:font-sans-lg text-light">OFFICIAL OPENING: MAY 8, 2019: 17:00 – 20:00</h3>
   
+  <p><strong>UPCOMING EVENTS</strong></p>
+  
+<p><strong>September 27, 15:00–18:00</strong><br><strong>Climate in a Box / Il clima in una scatola</strong><br>
+Researchers Dr. Silvia Santato and Dr. Federico Dallo present a research-based participatory workshop in collaboration with University Ca’ Foscari, Venice Climate Lab, and Venice Calls. Participants will build small models that demonstrate the Earth’s climate system and how increasing CO2 emissions are major threat of climate change. Local high school students are encouraged to attend. 
+</p>
+
+<p><strong>October 2, 16:30–18:00</strong><br><strong>To reassure or to alarm? The role of language in communicating environmental risk</strong><br><strong>Rassicurare o allarmare? Il ruolo del linguaggio nella comunicazione del rischio ambientale</strong><br>A panel discussion part of <em><a href="https://www.unive.it/pag/26799/">Research Communication Week</a></em> (events throughout Venice to learn, discuss, and experiment with communication tools and public engagement) organized by University Ca’ Foscari of Venice, bringing together writers, journalists, researchers, and philosophers discussing how to communicate risk in environmental science. Participants include journalist and writer Margherita Fronte, scientific journalist Giancarlo Sturloni, writer Alessandra Viola, and philosopher Luigi Perissinotto; moderated by researcher and journalist Roberta Villa and with an introduction by Francesca Pietropaolo, co-curator of the Collateral Event. Students may receive credit for their participation (a number of seats will be reserved for them). 
+</p>
+
+<p>
+<strong>October 12, 17:30–20:00</strong><br><strong>Films by Jonas Mekas</strong><br>Curators Francesco Urbano Ragazzi present excerpts from Jonas Mekas’s <em>365 Day Project</em>, in which Mekas, the “godfather of American avant-garde cinema,” made a film each consecutive day for one year, followed by a screening of <em>Walden </em>(1968), a film-diary connecting themes of nature to everyday urban life. 
+</p>
+
+<p><strong>October 13, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br>The <em>Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.
+</p>
+
+<p><strong>November 12, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti. 
+</p>
+
+<p>
+<strong>OFFICIAL CLOSING: November 24, 2019: 16:30–20:00</strong>
+</p>
+<p>
+<strong>November 24 at 16:30-17:00</strong><br>Presented here for the first time, Italian artist Paolo Canevari will perform his <em>Ora pro nobis</em>, a participatory performance where he will be joined by a chorus of local Accademia di Belle Arti students and will invite the public to participate as well. 
+</p>
+
+<p>
+<strong>November 24 at 17:00-18:00</strong><br>Musical performance by viol ensemble Parthenia with Soprano Sherezade Panthaki that explores the extraordinary repertoire for the viola da gamba of the 16th-18th centuries as well as a contemporary composition by scientist and musician Lucy Jones based on data about Earth's global warming and climate change. Italy is the birthplace of this instrument, and its earliest flourishing was in Venice where composers, musicians, patrons, citizens, instrument builders, and music publishers all mingled to create some of the most beautiful music ever written. 
+</p>
+
+<p><strong>November 24 at 18:20-20:00</strong><br>Cooking performance with Sarah Sze, Rirkrit Tiravanija, and Tomas Vu. 
+</p>
+  
   <p><strong>PAST EVENTS</strong></p>
   
-  <p><strong>July 16, 18:00–midnight</strong><br/> Deep Listening Event: Oratoria Mare Nostrum
+  <p><strong>September 14, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br>
+<em>The</em> <em>Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site- responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti. Details for September’s event <a href="https://www.facebook.com/events/482138915854778/">can be found here</a>.<br>During the Oratorio Mare Nostrum events, guests are encouraged to join us at our local eco restaurant/cultural venue partner Laguna Libre, where a complimentary beverage will be offered to visitors attending the event. On these full moon deep listening evenings, Laguna Libre will be programming live music and films relating to the Mediterranean and our shared interest in Mare Nostrum, our sea.
+</p>
+  
+  <p><strong>July 16, 18:00–midnight</strong><br/> <strong>Deep Listening Event: Oratoria Mare Nostrum</strong>
 <br/>The Brooklyn Rail and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s Oratorio Mare Nostrum, a site responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.<br><br>During the Oratorio Mare Nostrum events, guests are encouraged to join us at our local eco restaurant/cultural venue partner Laguna Libre, where a complimentary beverage will be offered to visitors attending the event. On these full moon deep listening evenings, Laguna Libre will be programming live music and films relating to the Mediterranean and our shared interest in Mare Nostrum, our sea.</p>
 
   <p><strong>July 12, 17:00</strong><br> <strong>Luigi Nono &ldquo;Hay que caminar&rdquo; so&ntilde;ando (1989) for two violins</strong><br> The violinists Carlo Lazari and Marco Rogliano will play &ldquo;Hay que caminar&rdquo; so&ntilde;ando (1989) by the great composer Luigi Nono (Venice, 1924–1990). <a href="https://www.facebook.com/events/692425787847413/" class="rsvp text-white">RSVP</a></p>
