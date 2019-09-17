@@ -12,7 +12,7 @@ order: 6
   
   <p><strong>UPCOMING EVENTS</strong></p>
   
-<p><strong>September 27, 15:00–18:00</strong><br><strong>Climate in a Box / Il clima in una scatola</strong><br>
+<p><strong>September 27, 16:00–18:00</strong><br><strong>Climate in a Box / Il clima in una scatola</strong><br>
 Researchers Dr. Federico Dallo, Jacopo Gabrieli and Silvia Santato present a research-based participatory workshop in collaboration with University Ca’ Foscari, Venice Climate Lab, and Venice Calls. In particular, with the aid of a custom-made box they will simulate the Earth’s climate system and show participants how the increase of the concentration of carbon dioxide (CO2) is decisive in raising the temperature of our planet. The aim is to illustrate how the climate system works and, through discussions, foster awareness on the urgency of the climate crisis. High school students are encouraged to attend.
 </p>
 
