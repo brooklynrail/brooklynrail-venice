@@ -11,10 +11,6 @@ order: 6
   <h3 class="font-sans-sm tablet:font-sans-lg text-light">OFFICIAL OPENING: MAY 8, 2019: 17:00 – 20:00</h3>
   
   <p><strong>UPCOMING EVENTS</strong></p>
-  
-<p><strong>September 27, 16:00–18:00</strong><br><strong>Climate in a Box / Il clima in una scatola</strong><br>
-Researchers Dr. Federico Dallo, Jacopo Gabrieli and Silvia Santato present a research-based participatory workshop in collaboration with University Ca’ Foscari, Venice Climate Lab, and Venice Calls. In particular, with the aid of a custom-made box they will simulate the Earth’s climate system and show participants how the increase of the concentration of carbon dioxide (CO2) is decisive in raising the temperature of our planet. The aim is to illustrate how the climate system works and, through discussions, foster awareness on the urgency of the climate crisis. High school students are encouraged to attend.
-</p>
 
 <p><strong>October 2, 16:00–18:00</strong><br><strong>To Reassure or to Alarm? The Role of Language in Communicating Environmental Risk</strong><br><strong>Rassicurare o allarmare? Il ruolo del linguaggio nella comunicazione del rischio ambientale</strong><br>A panel discussion part of <em><a href="https://www.unive.it/pag/26799/">Research Communication Week</a></em> (events throughout Venice to learn, discuss, and experiment with communication tools and public engagement) organized by University Ca’ Foscari of Venice, bringing together writers, journalists, researchers, and philosophers discussing how to communicate risk in environmental science. Participants include journalist and writer Margherita Fronte, scientific journalist Giancarlo Sturloni, writer Alessandra Viola, and philosopher Luigi Perissinotto; moderated by researcher and journalist Roberta Villa and with an introduction by Francesca Pietropaolo, co-curator of the Collateral Event. Journalists may receive credit for their participation (a number of seats will be reserved for them). 
 </p>
@@ -48,6 +44,10 @@ Researchers Dr. Federico Dallo, Jacopo Gabrieli and Silvia Santato present a res
 </p>
   
   <p><strong>PAST EVENTS</strong></p>
+  
+  <p><strong>September 27, 16:00–18:00</strong><br><strong>Climate in a Box / Il clima in una scatola</strong><br>
+Researchers Dr. Federico Dallo, Jacopo Gabrieli and Silvia Santato present a research-based participatory workshop in collaboration with University Ca’ Foscari, Venice Climate Lab, and Venice Calls. In particular, with the aid of a custom-made box they will simulate the Earth’s climate system and show participants how the increase of the concentration of carbon dioxide (CO2) is decisive in raising the temperature of our planet. The aim is to illustrate how the climate system works and, through discussions, foster awareness on the urgency of the climate crisis. High school students are encouraged to attend.
+</p>
   
   <p><strong>September 14, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br>
 <em>The</em> <em>Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site- responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti. Details for September’s event <a href="https://www.facebook.com/events/482138915854778/">can be found here</a>.<br>During the Oratorio Mare Nostrum events, guests are encouraged to join us at our local eco restaurant/cultural venue partner Laguna Libre, where a complimentary beverage will be offered to visitors attending the event. On these full moon deep listening evenings, Laguna Libre will be programming live music and films relating to the Mediterranean and our shared interest in Mare Nostrum, our sea.
