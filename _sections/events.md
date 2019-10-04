@@ -7,7 +7,7 @@ description:
 order: 6
 ---
 
-<div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
+<div class="margin-bottom-5 padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
 
 <h3 class="font-sans-sm tablet:font-sans-lg text-light">OFFICIAL OPENING: MAY 8, 2019: 17:00 – 20:00</h3>
 
@@ -45,7 +45,7 @@ order: 6
 
 </div>
 
-<div class="padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
+<div class="margin-bottom-5 padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
 
 <p><strong>PAST EVENTS</strong></p>
 
