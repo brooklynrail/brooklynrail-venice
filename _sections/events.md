@@ -13,41 +13,43 @@ order: 6
 
 <p><strong>UPCOMING EVENTS</strong></p>
 
-<p><strong>October 2, 16:00–18:00</strong><br><strong>To Reassure or to Alarm? The Role of Language in Communicating Environmental Risk</strong><br><strong>Rassicurare o allarmare? Il ruolo del linguaggio nella comunicazione del rischio ambientale</strong><br>A panel discussion part of <em><a href="https://www.unive.it/pag/26799/">Research Communication Week</a></em> (events throughout Venice to learn, discuss, and experiment with communication tools and public engagement) organized by University Ca’ Foscari of Venice, bringing together writers, journalists, researchers, and philosophers discussing how to communicate risk in environmental science. Participants include journalist and writer Margherita Fronte, scientific journalist Giancarlo Sturloni, writer Alessandra Viola, and philosopher Luigi Perissinotto; moderated by researcher and journalist Roberta Villa and with an introduction by Francesca Pietropaolo, co-curator of the Collateral Event. Journalists may receive credit for their participation (a number of seats will be reserved for them).
-</p>
 
-<p>
-<strong>October 11, 17:30–19:30</strong><br><strong>Films by Jonas Mekas</strong><br>Curators Francesco Urbano Ragazzi present excerpts from Jonas Mekas’s <em>365 Day Project</em>, in which Mekas, the “godfather of American avant-garde cinema,” made a film each consecutive day for one year. <a href="https://www.eventbrite.com/e/jonas-mekas-365-day-project-walden-tickets-74441754291" class="rsvp text-white">RSVP</a>
-</p>
-
-<p>
-<strong>October 13, 15:00–18:00</strong><br><strong>Films by Jonas Mekas</strong><br>Curators Francesco Urbano Ragazzi present Jonas Mekas’s <em>Walden: Diaries, Notes, and Sketches</em> (1969) a film-diary connecting themes of nature to everyday urban life, chronicling four years of the artist's life in and around New York city. <a href="https://www.eventbrite.com/e/jonas-mekas-365-day-project-walden-tickets-74441754291" class="rsvp text-white">RSVP</a>
-</p>
-
-<p><strong>October 13, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.
-</p>
 
 <p><strong>November 12, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.
 </p>
 
 <p>
-<strong>OFFICIAL CLOSING: November 24, 2019: 16:30–20:00</strong>
+<strong>OFFICIAL CLOSING: November 23, 2019: 16:30–20:00</strong>
 </p>
 <p>
-<strong>November 24 at 16:30-17:00</strong><br>Presented here for the first time, Italian artist Paolo Canevari will perform his <em>Ora pro nobis</em>, a participatory performance where he will be joined by a chorus of local Accademia di Belle Arti students and will invite the public to participate as well.
+<strong>November 23 at 16:30-17:00</strong><br>Presented here for the first time, Italian artist Paolo Canevari will perform his <em>Ora pro nobis</em>, a participatory performance where he will be joined by a chorus of local Accademia di Belle Arti students and will invite the public to participate as well.
 </p>
 
 <p>
-<strong>November 24 at 17:00-18:00</strong><br>Musical performance by viol ensemble Parthenia with Soprano Sherezade Panthaki that explores the extraordinary repertoire for the viola da gamba of the 16th-18th centuries as well as a contemporary composition by scientist and musician Lucy Jones based on data about Earth's global warming and climate change. Italy is the birthplace of this instrument, and its earliest flourishing was in Venice where composers, musicians, patrons, citizens, instrument builders, and music publishers all mingled to create some of the most beautiful music ever written.
+<strong>November 23 at 17:00-18:00</strong><br>Musical performance by viol ensemble Parthenia with Soprano Sherezade Panthaki that explores the extraordinary repertoire for the viola da gamba of the 16th-18th centuries as well as a contemporary composition by scientist and musician Lucy Jones based on data about Earth's global warming and climate change. Italy is the birthplace of this instrument, and its earliest flourishing was in Venice where composers, musicians, patrons, citizens, instrument builders, and music publishers all mingled to create some of the most beautiful music ever written.
 </p>
 
-<p><strong>November 24 at 18:20-20:00</strong><br>Cooking performance with Sarah Sze, Rirkrit Tiravanija, and Tomas Vu.</p>
+<p><strong>November 23 at 18:20-20:00</strong><br>Cooking performance with Sarah Sze, Rirkrit Tiravanija, and Tomas Vu.</p>
 
 </div>
 
 <div class="margin-bottom-5 padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
 
 <p><strong>PAST EVENTS</strong></p>
+
+<p><strong>October 13, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.
+</p>
+
+<p>
+<strong>October 13, 15:00–18:00</strong><br><strong>Films by Jonas Mekas</strong><br>Curators Francesco Urbano Ragazzi present Jonas Mekas’s <em>Walden: Diaries, Notes, and Sketches</em> (1969) a film-diary connecting themes of nature to everyday urban life, chronicling four years of the artist's life in and around New York city. <a href="https://www.eventbrite.com/e/jonas-mekas-365-day-project-walden-tickets-74441754291" class="rsvp text-white">RSVP</a>
+</p>
+
+<p>
+<strong>October 11, 17:30–19:30</strong><br><strong>Films by Jonas Mekas</strong><br>Curators Francesco Urbano Ragazzi present excerpts from Jonas Mekas’s <em>365 Day Project</em>, in which Mekas, the “godfather of American avant-garde cinema,” made a film each consecutive day for one year. <a href="https://www.eventbrite.com/e/jonas-mekas-365-day-project-walden-tickets-74441754291" class="rsvp text-white">RSVP</a>
+</p>
+
+<p><strong>October 2, 16:00–18:00</strong><br><strong>To Reassure or to Alarm? The Role of Language in Communicating Environmental Risk</strong><br><strong>Rassicurare o allarmare? Il ruolo del linguaggio nella comunicazione del rischio ambientale</strong><br>A panel discussion part of <em><a href="https://www.unive.it/pag/26799/">Research Communication Week</a></em> (events throughout Venice to learn, discuss, and experiment with communication tools and public engagement) organized by University Ca’ Foscari of Venice, bringing together writers, journalists, researchers, and philosophers discussing how to communicate risk in environmental science. Participants include journalist and writer Margherita Fronte, scientific journalist Giancarlo Sturloni, writer Alessandra Viola, and philosopher Luigi Perissinotto; moderated by researcher and journalist Roberta Villa and with an introduction by Francesca Pietropaolo, co-curator of the Collateral Event. Journalists may receive credit for their participation (a number of seats will be reserved for them).
+</p>
 
 <p><strong>September 27, 16:00–18:00</strong><br><strong>Climate in a Box / Il clima in una scatola</strong><br>
 Researchers Dr. Federico Dallo, Jacopo Gabrieli and Silvia Santato present a research-based participatory workshop in collaboration with University Ca’ Foscari, Venice Climate Lab, and Venice Calls. In particular, with the aid of a custom-made box they will simulate the Earth’s climate system and show participants how the increase of the concentration of carbon dioxide (CO2) is decisive in raising the temperature of our planet. The aim is to illustrate how the climate system works and, through discussions, foster awareness on the urgency of the climate crisis. High school students are encouraged to attend.
