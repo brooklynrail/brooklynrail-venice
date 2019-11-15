@@ -18,7 +18,7 @@ order: 6
 </p>
 <p>
 <strong>November 23 at 16:30-17:00</strong><br>Presented here for the first time, Italian artist Paolo Canevari will perform his <em>Ora pro nobis</em>, a participatory performance where he will be joined by a chorus of local Accademia di Belle Arti students and will invite the public to participate as well.<br>
-  <strong>Chorus:</strong> Sara Armellin, Cinzia Beraldo, Chiara De Luca, Elisa Gorgi, Ylenia Modolo, Xhovana Precetaj, Francesca Rossato, Cristina Sorato, and Angela Trione
+Chorus: Sara Armellin, Cinzia Beraldo, Chiara De Luca, Elisa Gorgi, Ylenia Modolo, Xhovana Precetaj, Francesca Rossato, Cristina Sorato, and Angela Trione
 </p>
 
 <p>
