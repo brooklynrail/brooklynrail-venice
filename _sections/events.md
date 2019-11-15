@@ -13,17 +13,12 @@ order: 6
 
 <p><strong>UPCOMING EVENTS</strong></p>
 
-<p><font color="red"><strong>CANCELED</strong> </font><strong>November 12, 16:30-17:30</strong><br><strong>Art, Environment, and Social Change</strong><br>Join us for a conversation between the artist Lauren Bon and Shaul Bassi, director of the Center for the Humanities and Social Change at Ca’ Foscari University, Venice. Together they will discuss the role of art as a catalyst for change in the face of today’s environmental crisis, and much more. Lauren Bon will delve into her work in the exhibition, in particular, and her collaborative practice with Metabolic Studio at large, including their ongoing, environmental project Bending the River Back into the City.
-</p>
-
-<p><strong>November 12, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti. 
-</p>
-
 <p>
 <strong>OFFICIAL CLOSING: November 23, 2019: 16:30–20:00</strong>
 </p>
 <p>
-<strong>November 23 at 16:30-17:00</strong><br>Presented here for the first time, Italian artist Paolo Canevari will perform his <em>Ora pro nobis</em>, a participatory performance where he will be joined by a chorus of local Accademia di Belle Arti students and will invite the public to participate as well.
+<strong>November 23 at 16:30-17:00</strong><br>Presented here for the first time, Italian artist Paolo Canevari will perform his <em>Ora pro nobis</em>, a participatory performance where he will be joined by a chorus of local Accademia di Belle Arti students and will invite the public to participate as well.<br>
+  <strong>Chorus:</strong> Sara Armellin, Cinzia Beraldo, Chiara De Luca, Elisa Gorgi, Ylenia Modolo, Xhovana Precetaj, Francesca Rossato, Cristina Sorato, and Angela Trione
 </p>
 
 <p>
@@ -37,6 +32,12 @@ order: 6
 <div class="margin-bottom-5 padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
 
 <p><strong>PAST EVENTS</strong></p>
+
+<p><font color="red"><strong>CANCELED</strong> </font><strong>November 12, 16:30-17:30</strong><br><strong>Art, Environment, and Social Change</strong><br>Join us for a conversation between the artist Lauren Bon and Shaul Bassi, director of the Center for the Humanities and Social Change at Ca’ Foscari University, Venice. Together they will discuss the role of art as a catalyst for change in the face of today’s environmental crisis, and much more. Lauren Bon will delve into her work in the exhibition, in particular, and her collaborative practice with Metabolic Studio at large, including their ongoing, environmental project Bending the River Back into the City.
+</p>
+
+<p><strong>November 12, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti. 
+</p>
 
 <p><strong>October 13, 18:00–midnight</strong><br><strong>Deep Listening Event: Oratoria Mare Nostrum</strong><br><em>The Brooklyn Rail </em>and Metabolic Studio proudly partner with Laguna Libre for Oratorio Mare Nostrum deep listening under the full moon of Lauren Bon’s <em>Oratorio Mare Nostrum</em>, a site-responsive, three-channel durational sound installation for Chiesa di Santa Maria delle Penitenti.
 </p>
