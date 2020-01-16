@@ -11,8 +11,6 @@ order: 6
 
 <h3 class="font-sans-sm tablet:font-sans-lg text-light">OFFICIAL OPENING: MAY 8, 2019: 17:00 – 20:00</h3>
 
-<p><strong>UPCOMING EVENTS</strong></p>
-
 <p>
 <strong>OFFICIAL CLOSING: November 23, 2019: 16:30–20:00</strong>
 </p>
@@ -26,12 +24,6 @@ Chorus: Sara Armellin, Cinzia Beraldo, Chiara De Luca, Elisa Gorgi, Ylenia Modol
 </p>
 
 <p><strong>November 23 at 18:20-20:00</strong><br>Cooking performance with Sarah Sze, Rirkrit Tiravanija, and Tomas Vu.</p>
-
-</div>
-
-<div class="margin-bottom-5 padding-y-2 bg-base-lightest padding-105 tablet:padding-3 font-sans-sm tablet:font-sans-md display-inline-block radius-sm">
-
-<p><strong>PAST EVENTS</strong></p>
 
 <p><font color="red"><strong>CANCELED</strong> </font><strong>November 12, 16:30-17:30</strong><br><strong>Art, Environment, and Social Change</strong><br>Join us for a conversation between the artist Lauren Bon and Shaul Bassi, director of the Center for the Humanities and Social Change at Ca’ Foscari University, Venice. Together they will discuss the role of art as a catalyst for change in the face of today’s environmental crisis, and much more. Lauren Bon will delve into her work in the exhibition, in particular, and her collaborative practice with Metabolic Studio at large, including their ongoing, environmental project Bending the River Back into the City.
 </p>
